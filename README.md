@@ -5,7 +5,7 @@ BakkesMod plugin intended to practice recovery in the air.
 
 1. Copy `AirRecoveryPlugin.dll` to `<steam_directory>/steamapps/common/rocketleague/Binaries/Win32/bakkesmod/plugins`
 2. Copy `airrecoveryplugin.set` to `<steam_directory>/steamapps/common/rocketleague/Binaries/Win32/bakkesmod/plugins/settings`
-3. In the game console run `plugin load airrecoveryplugin`
+3. Add `plugin load airrecoveryplugin` to `<steam_directory>/steamapps/common/rocketleague/Binaries/Win32/bakkesmod/cfg/plugins.cfg`
 
 ## Commands
 
